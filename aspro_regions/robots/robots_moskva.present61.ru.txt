@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+sitemap:https://rostov-na-donu.present61.ru/sitemap.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemapindex.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemapmobileindex.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2996997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2994997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2992997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2990997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2988997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2986997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2984997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2982997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2980997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2978997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2976997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2974997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2972997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2970997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2968997.xml
+sitemap:https://rostov-na-donu.present61.ru/sitemap-hot-2966997.xml

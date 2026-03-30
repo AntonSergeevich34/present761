@@ -1,0 +1,1 @@
+<? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/kitnet.foldersizes/admin/folder_get_ajax_size.php");?>

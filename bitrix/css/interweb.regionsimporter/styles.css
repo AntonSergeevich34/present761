@@ -1,0 +1,21 @@
+.goodcheckconnection {
+    color: green;
+    padding: 0 0 0 10px;
+}
+
+.badcheckconnection {
+    color: red;
+    padding: 0 0 0 10px;
+}
+
+.ckeckbox-to-update-wrapper > div {
+    margin-bottom: 5px;
+}
+
+.progress_service_data {
+    display: none;
+}
+
+.regions_import_success {
+    display: none;
+}

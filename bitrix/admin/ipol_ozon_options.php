@@ -1,0 +1,1 @@
+<?require_once $_SERVER['DOCUMENT_ROOT'].'/bitrix/modules/ipol.ozon/admin/ipol_ozon_options.php';?>

@@ -1,0 +1,175 @@
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 4
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [_ym_debug] => null
+    [_ym_uid] => 1728022482230986156
+    [_ym_d] => 1736427030
+    [BX_USER_ID] => 4fe314b413b9e622d62de6e79a6a3987
+    [BITRIX_SM_AG_SMSE_H] => лист для монет|рыбак|Зажигалка Fisherman
+    [BITRIX_SM_RCM_PRODUCT_LOG] => 7431-mostviewed-1736499215.7325-mostviewed-1736511155.7510-mostviewed-1736511388.7466-mostviewed-1736511619.7465-mostviewed-1736512912
+    [BITRIX_SM_GUEST_ID] => 10943631
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_isad] => 1
+    [PHPSESSID] => 6dTKnwWY3ceGcsxWFBdf3grc8j4KMjy9
+    [BITRIX_SM_SALE_UID] => 80e5f9adc7741c141d4d442fd82bb566
+    [MAX_VIEWED_ITEMS_s1] => {"16499":["1738313563529","1006811"],"16655":["1738313555360",""],"17248":["1738313624767",""],"17406":["1738313573061","1008114"]}
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:29:13
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 3
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [_ym_debug] => null
+    [_ym_uid] => 1728022482230986156
+    [_ym_d] => 1736427030
+    [BX_USER_ID] => 4fe314b413b9e622d62de6e79a6a3987
+    [BITRIX_SM_AG_SMSE_H] => лист для монет|рыбак|Зажигалка Fisherman
+    [BITRIX_SM_RCM_PRODUCT_LOG] => 7431-mostviewed-1736499215.7325-mostviewed-1736511155.7510-mostviewed-1736511388.7466-mostviewed-1736511619.7465-mostviewed-1736512912
+    [BITRIX_SM_GUEST_ID] => 10943631
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_isad] => 1
+    [PHPSESSID] => 6dTKnwWY3ceGcsxWFBdf3grc8j4KMjy9
+    [BITRIX_SM_SALE_UID] => 80e5f9adc7741c141d4d442fd82bb566
+    [MAX_VIEWED_ITEMS_s1] => {"16499":["1738313563529","1006811"],"16655":["1738313555360",""],"17248":["1738313624767",""],"17406":["1738313573061","1008114"]}
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:29:53
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 2
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [BITRIX_SM_LOGIN] => admin
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [_ym_debug] => null
+    [_ym_uid] => 1728022482230986156
+    [_ym_d] => 1736427030
+    [BX_USER_ID] => 4fe314b413b9e622d62de6e79a6a3987
+    [BITRIX_SM_AG_SMSE_H] => лист для монет|рыбак|Зажигалка Fisherman
+    [BITRIX_SM_RCM_PRODUCT_LOG] => 7431-mostviewed-1736499215.7325-mostviewed-1736511155.7510-mostviewed-1736511388.7466-mostviewed-1736511619.7465-mostviewed-1736512912
+    [BITRIX_SM_GUEST_ID] => 10943631
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_isad] => 1
+    [PHPSESSID] => 6dTKnwWY3ceGcsxWFBdf3grc8j4KMjy9
+    [BITRIX_SM_SALE_UID] => 80e5f9adc7741c141d4d442fd82bb566
+    [MAX_VIEWED_ITEMS_s1] => {"16499":["1738313563529","1006811"],"16655":["1738313555360",""],"17248":["1738313624767",""],"17406":["1738313573061","1008114"]}
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:30:53
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 4
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [PHPSESSID] => sLjlOE8oDu63NTWctP7PQtPJThjMXUVr
+    [BITRIX_SM_GUEST_ID] => 10943652
+    [BITRIX_SM_SALE_UID] => 9512226e1cfb5dc5f92619cf6bda144f
+    [_ym_debug] => null
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_uid] => 1738323351842210545
+    [_ym_d] => 1738323351
+    [_ym_isad] => 2
+    [BX_USER_ID] => a7ea9231d2d1cb92c85b59a3182d3253
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:35:53
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 2
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [PHPSESSID] => sLjlOE8oDu63NTWctP7PQtPJThjMXUVr
+    [BITRIX_SM_GUEST_ID] => 10943652
+    [BITRIX_SM_SALE_UID] => 9512226e1cfb5dc5f92619cf6bda144f
+    [_ym_debug] => null
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_uid] => 1738323351842210545
+    [_ym_d] => 1738323351
+    [_ym_isad] => 2
+    [BX_USER_ID] => a7ea9231d2d1cb92c85b59a3182d3253
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:35:57
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 2
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [PHPSESSID] => sLjlOE8oDu63NTWctP7PQtPJThjMXUVr
+    [BITRIX_SM_GUEST_ID] => 10943652
+    [BITRIX_SM_SALE_UID] => 9512226e1cfb5dc5f92619cf6bda144f
+    [_ym_debug] => null
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_uid] => 1738323351842210545
+    [_ym_d] => 1738323351
+    [_ym_isad] => 2
+    [BX_USER_ID] => a7ea9231d2d1cb92c85b59a3182d3253
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:36:01
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 2
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [PHPSESSID] => sLjlOE8oDu63NTWctP7PQtPJThjMXUVr
+    [BITRIX_SM_GUEST_ID] => 10943652
+    [BITRIX_SM_SALE_UID] => 9512226e1cfb5dc5f92619cf6bda144f
+    [_ym_debug] => null
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_uid] => 1738323351842210545
+    [_ym_d] => 1738323351
+    [_ym_isad] => 2
+    [BX_USER_ID] => a7ea9231d2d1cb92c85b59a3182d3253
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:36:07
+)
+
+AJAX REQUEST: Array
+(
+    [PAGEN_2] => 2
+    [ajax_get] => Y
+    [AJAX_REQUEST] => Y
+    [bitrix_include_areas] => N
+    [ASPRO_MAX_USE_MODIFIER] => Y
+    [PHPSESSID] => sLjlOE8oDu63NTWctP7PQtPJThjMXUVr
+    [BITRIX_SM_GUEST_ID] => 10943652
+    [BITRIX_SM_SALE_UID] => 9512226e1cfb5dc5f92619cf6bda144f
+    [_ym_debug] => null
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1738357140,"UNIQUE":["conversion_visit_day"]}
+    [_ym_uid] => 1738323351842210545
+    [_ym_d] => 1738323351
+    [_ym_isad] => 2
+    [BX_USER_ID] => a7ea9231d2d1cb92c85b59a3182d3253
+    [_ym_visorc] => w
+    [BITRIX_SM_LAST_VISIT] => 31.01.2025 14:36:22
+)
+

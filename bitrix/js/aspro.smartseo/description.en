@@ -1,0 +1,10 @@
+<b>New in version and improvement:</b>
+<ul>
+    <li>Added checkboxes for mass removal of SEF urls, sites, tags and conditions in the search (SEO-74)</li>
+</ul>
+<b>Corrections:</b>
+<ul>
+	<li>The English version does not display a text with the number of generated landing pages (SEO-130)</li>
+    <li>In the English version, when creating a tag cloud in the Form Tags line, the text is without name (SEO-131)</li>
+    <li>Incorrect SEF urls were created if the goods were removed from the values of the List type (SEO-140)</li>
+</ul>

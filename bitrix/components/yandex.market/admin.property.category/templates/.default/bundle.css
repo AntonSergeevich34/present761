@@ -1,0 +1,36 @@
+.ym-category-property {
+	padding-right: 40px;
+}
+
+.ym-category-property__copy {
+	display: inline-block;
+	vertical-align: middle;
+	overflow: hidden;
+	width: 15px;
+	height: 15px;
+	padding: 4px;
+	border: 0;
+	box-sizing: content-box;
+
+	margin: 0 -45px 0 5px;
+
+	/*noinspection CssUnknownTarget*/
+	background: url('/bitrix/images/yandex.market/copy.svg') no-repeat 50% 50%;
+	background-size: 14px 14px;
+
+	opacity: 0.75;
+
+	white-space: nowrap;
+	text-indent: 30px;
+
+	cursor: pointer;
+}
+
+.ym-category-property__copy:hover,
+.ym-category-property__copy:focus {
+	opacity: 1;
+}
+
+.ym-category-property__copy:active {
+	opacity: 0.5;
+}

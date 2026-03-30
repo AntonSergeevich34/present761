@@ -1,0 +1,39 @@
+<?if(!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true) die();?>
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A4ba52261071c6f5c0badfaafdeabb71671d2a6b4641fc46a492f858138191116&amp;source=constructor" width="800px" height="560px" frameborder="0"></iframe>
+<?/*
+$APPLICATION->IncludeComponent(
+    "bitrix:map.yandex.view", 
+    "map", 
+    array(
+        "API_KEY" => "31fe2563-d0f8-41bc-8a68-35c24a467905",
+
+        "COMPONENT_TEMPLATE" => "map",
+        "COMPOSITE_FRAME_MODE" => "A",
+        "COMPOSITE_FRAME_TYPE" => "AUTO",
+        "CONTROLS" => array(
+            0 => "ZOOM",
+            1 => "SMALLZOOM",
+            2 => "TYPECONTROL",
+        ),
+        "INIT_MAP_TYPE" => "MAP",
+        "KEY" => "AKk9BlwBAAAAcf5CSgMAHyfAq9knnHW9nsNrwnKOBpJ8-FUAAAAAAAAAAABE8lP1ifeROCbNOEGuF0oRi1P0xQ==",
+        "MAP_DATA" => "a:4:{s:10:\"yandex_lat\";d:55.75148126554234;s:10:\"yandex_lon\";d:37.60292114257811;s:12:\"yandex_scale\";i:10;s:10:\"PLACEMARKS\";a:1:{i:0;a:3:{s:3:\"LON\";d:338.9173;s:3:\"LAT\";d:47.220983;s:4:\"TEXT\";s:16:\"Компания\";}}}",
+        "MAP_HEIGHT" => "550px",
+        "MAP_ID" => "",
+        "MAP_WIDTH" => "100%",
+        "OPTIONS" => array(
+            0 => "ENABLE_DBLCLICK_ZOOM",
+            1 => "ENABLE_DRAGGING",
+        ),
+        "USE_REGION_DATA" => "Y"
+    ),
+    false
+);?>
+<style>
+    @media screen(max-width: 900px) {
+        .bx-yandex-view-map{
+            height: auto !important;
+        }
+    }
+</style>
+*/?>

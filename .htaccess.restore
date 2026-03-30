@@ -1,0 +1,52 @@
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors on
+php_flag ignore_repeated_errors off
+php_flag ignore_repeated_source off
+php_flag report_memleaks on
+php_flag track_errors on
+php_value docref_root 0
+php_value docref_ext 0
+php_value error_log /home/w/w61226y2/dev.w61226y2.beget.tech/public_html/PHP_errors.log
+php_value error_reporting 2047
+php_value log_errors_max_len 0
+
+<Files PHP_errors.log>
+    Require all denied
+</Files>
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+<IfModule mod_php.c>
+php_flag session.use_trans_sid off
+</IfModule>
+
+<IfModule mod_php7.c>
+php_value auto_prepend_file "/home/w/w61226y2/dev.w61226y2.beget.tech/public_html/bitrix/modules/security/tools/start.php"
+php_flag session.use_trans_sid off
+</IfModule>
+
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType image/jpeg "access plus 3 days"
+ExpiresByType image/gif "access plus 3 day"
+ExpiresByType image/png "access plus 3 day"
+ExpiresByType text/css "access plus 3 day"
+ExpiresByType application/javascript "access plus 3 day"  
+</IfModule>

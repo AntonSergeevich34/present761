@@ -1,0 +1,90 @@
+/*NOTE: This file is intended for programmers. Aspro technical support is not advised to work with him.*/
+
+/* Examples (uncomment to use):*/
+
+/* Expand site width */
+/* body .wrapper { max-width: 1400px !important;  } */
+
+/* Set site background image */
+/* body {  background: url(image_source) top no-repeat; }
+
+/* Hide compare button */
+/* a.compare_item { display: none !important;  }*/
+.fancybox-slide--iframe .fancybox-content{
+	height:100%!important;
+}
+.viewed_product_block .viewed-wrapper .block-item__title {
+  max-height: 53px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: flex;
+  /*align-items: center;*/
+  word-break: break-word;
+  flex-direction: column;
+  align-items: start;
+}
+.viewed_product_block .viewed-wrapper .block-item__title > a {
+  max-height: 100%;
+}
+
+.viewed_article{
+    font-weight: 600;
+}
+.logo-row .top-description.addr{
+	opacity:1!important;
+}
+@font-face {
+  font-family: 'icomoon2';
+  src:
+    url('/local/templates/aspro_max/fonts/icomoon.ttf?t033av') format('truetype'),
+    url('/local/templates/aspro_max/fonts/icomoon.woff?t033av') format('woff'),
+    url('/local/templates/aspro_max/fonts/icomoon.svg?t033av#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+.top-description .n-header__yandex-market {
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+    max-width: 150px;
+    margin-left: 30px;
+}
+.top-description .img-thumb {
+    height: 27px;
+    margin-bottom: 4px;
+}
+.top-description .yandex-market-stars {
+    margin: 4px 0;
+    font-size: 10px;
+    line-height: 1;
+}
+.top-description .yandex-market-stars .icon {
+    color: #d56f36;
+    margin: 0 2px;
+    font-family: 'icomoon2';
+    font-style: normal;
+}
+.icon-star-fill:before {
+    content: "\e92e";
+}
+.top-description .img-thumb > img {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 1rem;
+}
+.n-header__yandex-market_title {
+    display: block;
+    color: #989898;
+    line-height: 1.2;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.section-gallery-wrapper__item._active img {
+  opacity: 1;
+ /*  min-width: 100%; */
+}

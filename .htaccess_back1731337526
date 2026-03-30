@@ -1,0 +1,202 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+Redirect 301 /robots.txt https://present61.ru/robots.php
+
+RewriteEngine On
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part9 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part9.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part9.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part9.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part8 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part8.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part8.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part8.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part7 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part7.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part7.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part7.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part6 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part6.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part6.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part6.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part5 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part5.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part5.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part5.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part4 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part4.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part4.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part4.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part3 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part3.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part3.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part3.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part2 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part2.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part2.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part2.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part13 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part13.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part13.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part13.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part12 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part12.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part12.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part12.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part11 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part11.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part11.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part11.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part10 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part10.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part10.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part10.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part1 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part1.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part1.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part1.php [L]
+RewriteCond %{HTTP_USER_AGENT} ^.*(Baiduspider|AhrefsBot|SemrushBot|Go-http-client/1.1).*$ [NC]
+RewriteRule .* - [F,L]
+Order Allow,Deny
+Allow from all
+
+Deny from 66.249.64.230
+Deny from 66.249.64.231
+Deny from 66.249.64.232
+Deny from 5.255.231.70
+Deny from 5.255.231.129
+Deny from 5.255.231.13
+Deny from 5.255.231.171
+Deny from 5.255.231.92
+Deny from 5.255.231.56
+Deny from 5.255.231.157
+
+<IfModule mod_php5.c>
+	php_flag allow_call_time_pass_reference 1
+	php_flag session.use_trans_sid off
+
+	#php_value display_errors 1
+
+	#php_value mbstring.internal_encoding UTF-8
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	Options +FollowSymLinks
+	RewriteEngine On
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part9 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part9.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part9.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part9.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part8 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part8.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part8.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part8.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part7 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part7.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part7.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part7.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part6 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part6.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part6.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part6.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part5 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part5.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part5.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part5.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part4 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part4.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part4.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part4.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part3 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part3.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part3.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part3.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part2 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part2.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part2.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part2.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part13 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part13.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part13.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part13.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part12 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part12.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part12.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part12.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part11 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part11.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part11.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part11.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part10 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part10.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part10.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part10.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21.part1 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.part1.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.part1.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.part1.php [L]
+#	RewriteCond %{HTTP_HOST} ^(.*)present61.ru$
+#    RewriteRule (.*?)robots\.txt/*(.*) https://present61.ru/robots.php [R=301,L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-29 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-29.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-29.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-29.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-iblock-21 Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-iblock-21.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-iblock-21.php -f
+	RewriteRule ^(.*)$ /sitemap-iblock-21.php [L]
+												
+	# ASPRO_SITEMAP_sitemap-files Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} sitemap-files.xml
+	RewriteCond %{DOCUMENT_ROOT}/sitemap-files.php -f
+	RewriteRule ^(.*)$ /sitemap-files.php [L]
+						
+	# ASPRO_ROBOTS Serve sitemap.xml with sitemap.php only if the latter exists
+	RewriteCond %{REQUEST_FILENAME} robots.txt
+	RewriteCond %{DOCUMENT_ROOT}/robots.php -f
+	RewriteRule ^(.*)$ /robots.php [L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+	RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+	# RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+	DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+	ExpiresActive on
+	ExpiresByType image/jpeg "access plus 3 day"
+	ExpiresByType image/gif "access plus 3 day"
+</IfModule>

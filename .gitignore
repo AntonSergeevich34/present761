@@ -1,0 +1,16 @@
+/bitrix/backup/
+/bitrix/cache/
+/bitrix/managed_cache/
+/bitrix/stack_cache/
+/bitrix/local_cache/
+/bitrix/html_pages/
+/upload/
+/bitrix/modules/
+/bitrix/.settings.php
+/bitrix/php_interface/dbconn.php
+.htaccess
+*.log
+*.zip
+*.tar.gz
+*.rar
+local/modules/*/install/wizards/

@@ -1,0 +1,6 @@
+<a class="n-header__yandex-market uk-visible-xlarge" href="https://yandex.ru/maps/org/present61/1245473058/?ll=38.923767%2C47.218534&z=17" target="_blank">
+	<span class="img-thumb">
+		<img src="/local/templates/aspro_max/images/ya_map_icon.png" alt="Яндекс карты">
+	</span>
+</a>
+<!--<a class="n-header__yandex-market uk-visible-xlarge" href="https://market.yandex.ru/shop--present61/1177828/reviews" target="_blank"><span class="img-thumb"><img src="/local/templates/aspro_max/images/yandex-market.svg?15669507736917" alt="Яндекс маркет"></span>                        <div class="yandex-market-stars">                            <i class="icon icon-star-fill"></i>                            <i class="icon icon-star-fill"></i>                            <i class="icon icon-star-fill"></i>                            <i class="icon icon-star-fill"></i>                            <i class="icon icon-star-fill"></i>                        </div><div class="n-header__yandex-market_title">99% хороших отзывов</div></a>-->

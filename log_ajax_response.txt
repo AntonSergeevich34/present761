@@ -1,0 +1,1216 @@
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_17513">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-zapravit-zazhigalku-ballonchikom-vsye-chto-nuzhno-znat/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/595/am0881gq24sgngdg4pz7l5ew2j8ehmjk.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-zapravit-zazhigalku-ballonchikom-vsye-chto-nuzhno-znat/">
+																Как заправить зажигалку баллончиком — всё, что нужно знать																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+															<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+														<li class="flex-nav-prev colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=3" class="flex-prev">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+					<link rel="prev" href="/blog/?PAGEN_2=3" />
+					<link rel="canonical" href="/blog/" />
+											</ul>
+							<a href="/blog/?PAGEN_2=1" class="dark_link">1</a>
+																			<a href="/blog/?PAGEN_2=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=3" class="dark_link">3</a>
+																				<span class="cur">4</span>
+																			</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50481">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/523/98v3mpensw0hvxj2a3t007efqftvvw5o.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																Чемодан или рюкзак — что выбрать для короткого путешествия?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50480">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/503/qbxw5ppvlbera3d319lgurcs1rtr3uqc.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																Чемоданы для семьи — как выбрать подходящий комплект?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50475">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/15b/m0jima5civhwdg0n3ltkzvgyy4oe07w6.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																Как выбрать чемодан для авиаперелётов?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50472">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/e3c/2idwvd820438zk67uxck1xccvm1mxvt0.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																Сумки известных брендов — почему стоит инвестировать в качество?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50471">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/3f6/459thaahrskbfkndsdeyvdp9fnh6ih1w.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																Женские сумки на каждый день — удобство и стиль																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50470">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/ba0/6y4jh9yqhyfoiewke0hmodvrurey8mwu.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																Как правильно сочетать женскую сумку с образом?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=2" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<span class="cur">1</span>
+																				<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=3" class="dark_link">3</a>
+																						<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=4" class="dark_link">4</a>
+								</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50481">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/523/98v3mpensw0hvxj2a3t007efqftvvw5o.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																Чемодан или рюкзак — что выбрать для короткого путешествия?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50480">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/503/qbxw5ppvlbera3d319lgurcs1rtr3uqc.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																Чемоданы для семьи — как выбрать подходящий комплект?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50475">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/15b/m0jima5civhwdg0n3ltkzvgyy4oe07w6.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																Как выбрать чемодан для авиаперелётов?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50472">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/e3c/2idwvd820438zk67uxck1xccvm1mxvt0.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																Сумки известных брендов — почему стоит инвестировать в качество?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50471">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/3f6/459thaahrskbfkndsdeyvdp9fnh6ih1w.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																Женские сумки на каждый день — удобство и стиль																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50470">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/ba0/6y4jh9yqhyfoiewke0hmodvrurey8mwu.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																Как правильно сочетать женскую сумку с образом?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=2" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<span class="cur">1</span>
+																				<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=3" class="dark_link">3</a>
+																						<a href="/blog/?PAGEN_2=3&amp;PAGEN_1=4" class="dark_link">4</a>
+								</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_17513">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-zapravit-zazhigalku-ballonchikom-vsye-chto-nuzhno-znat/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/595/am0881gq24sgngdg4pz7l5ew2j8ehmjk.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-zapravit-zazhigalku-ballonchikom-vsye-chto-nuzhno-znat/">
+																Как заправить зажигалку баллончиком — всё, что нужно знать																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+															<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+														<li class="flex-nav-prev colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=3" class="flex-prev">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+					<link rel="prev" href="/blog/?PAGEN_2=3" />
+					<link rel="canonical" href="/blog/" />
+											</ul>
+							<a href="/blog/?PAGEN_2=1" class="dark_link">1</a>
+																			<a href="/blog/?PAGEN_2=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=3" class="dark_link">3</a>
+																				<span class="cur">4</span>
+																			</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50469">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-muzhskuyu-sumku-sovety-po-funktsionalnosti-i-stilyu/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/4d8/k2j314dnotbhflsl5dvk9fqz8xlq3nei.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-muzhskuyu-sumku-sovety-po-funktsionalnosti-i-stilyu/">
+																Как выбрать мужскую сумку — советы по функциональности и стилю																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50468">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-idealnyy-chemodan-dlya-puteshestviy/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/13e/6c05sv9be017wczoy3vavxb1zj4e5wbb.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-idealnyy-chemodan-dlya-puteshestviy/">
+																Как выбрать идеальный чемодан для путешествий																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50467">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/istoriya-i-evolyutsiya-chemodanov-ot-sundukov-do-sovremennykh-modeley/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/964/qyi22fjfs03cbv7m3nvl3ou7ril7rsli.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/istoriya-i-evolyutsiya-chemodanov-ot-sundukov-do-sovremennykh-modeley/">
+																История и эволюция чемоданов — от сундуков до современных моделей																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_17600">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/podarok-s-istoriey-zazhigalka-zippo-dlya-blizkogo-cheloveka/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/853/s0232pyvxyvki3t081hmpvksm9ilzzto.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/podarok-s-istoriey-zazhigalka-zippo-dlya-blizkogo-cheloveka/">
+																Подарок с историей — зажигалка Zippo для близкого человека																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_17537">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/pochemu-zazhigalki-zippo-schitayutsya-luchshimi-v-mire/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/6e4/kzy4cbx0qw5kkrj58s2la1x6o5f2g815.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/pochemu-zazhigalki-zippo-schitayutsya-luchshimi-v-mire/">
+																Почему зажигалки Zippo считаются лучшими в мире																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_17523">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chto-nuzhno-znat-vladeltsam-zazhigalok-zippo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/948/2mwfp8d3zk9cmm69vgdcc2f2rlpuiagn.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chto-nuzhno-znat-vladeltsam-zazhigalok-zippo/">
+																Что нужно знать владельцам зажигалок Zippo																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+														<li class="flex-nav-prev colored_theme_hover_text">
+						<a href="/blog/" class="flex-prev">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+					<link rel="prev" href="/blog/" />
+					<link rel="canonical" href="/blog/" />
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=3" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<a href="/blog/" class="dark_link">1</a>
+																				<span class="cur">2</span>
+																				<a href="/blog/?PAGEN_2=3" class="dark_link">3</a>
+																				<a href="/blog/?PAGEN_2=4" class="dark_link">4</a>
+																			</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50481">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/523/98v3mpensw0hvxj2a3t007efqftvvw5o.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																Чемодан или рюкзак — что выбрать для короткого путешествия?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50480">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/503/qbxw5ppvlbera3d319lgurcs1rtr3uqc.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																Чемоданы для семьи — как выбрать подходящий комплект?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50475">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/15b/m0jima5civhwdg0n3ltkzvgyy4oe07w6.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																Как выбрать чемодан для авиаперелётов?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50472">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/e3c/2idwvd820438zk67uxck1xccvm1mxvt0.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																Сумки известных брендов — почему стоит инвестировать в качество?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50471">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/3f6/459thaahrskbfkndsdeyvdp9fnh6ih1w.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																Женские сумки на каждый день — удобство и стиль																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50470">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/ba0/6y4jh9yqhyfoiewke0hmodvrurey8mwu.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																Как правильно сочетать женскую сумку с образом?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<span class="cur">1</span>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=3" class="dark_link">3</a>
+																						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=4" class="dark_link">4</a>
+								</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50481">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/523/98v3mpensw0hvxj2a3t007efqftvvw5o.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																Чемодан или рюкзак — что выбрать для короткого путешествия?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50480">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/503/qbxw5ppvlbera3d319lgurcs1rtr3uqc.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																Чемоданы для семьи — как выбрать подходящий комплект?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50475">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/15b/m0jima5civhwdg0n3ltkzvgyy4oe07w6.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																Как выбрать чемодан для авиаперелётов?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50472">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/e3c/2idwvd820438zk67uxck1xccvm1mxvt0.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																Сумки известных брендов — почему стоит инвестировать в качество?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50471">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/3f6/459thaahrskbfkndsdeyvdp9fnh6ih1w.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																Женские сумки на каждый день — удобство и стиль																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50470">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/ba0/6y4jh9yqhyfoiewke0hmodvrurey8mwu.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																Как правильно сочетать женскую сумку с образом?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<span class="cur">1</span>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=3" class="dark_link">3</a>
+																						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=4" class="dark_link">4</a>
+								</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
+RESPONSE HTML: 																					    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50481">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/523/98v3mpensw0hvxj2a3t007efqftvvw5o.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodan-ili-ryukzak-chto-vybrat-dlya-korotkogo-puteshestviya/">
+																Чемодан или рюкзак — что выбрать для короткого путешествия?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50480">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/503/qbxw5ppvlbera3d319lgurcs1rtr3uqc.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/chemodany-dlya-semi-kak-vybrat-podkhodyashchiy-komplekt/">
+																Чемоданы для семьи — как выбрать подходящий комплект?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50475">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/15b/m0jima5civhwdg0n3ltkzvgyy4oe07w6.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-vybrat-chemodan-dlya-aviaperelyetov/">
+																Как выбрать чемодан для авиаперелётов?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50472">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/e3c/2idwvd820438zk67uxck1xccvm1mxvt0.jpg" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/sumki-izvestnykh-brendov-pochemu-stoit-investirovat-v-kachestvo/">
+																Сумки известных брендов — почему стоит инвестировать в качество?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50471">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/3f6/459thaahrskbfkndsdeyvdp9fnh6ih1w.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/zhenskie-sumki-na-kazhdyy-den-udobstvo-i-stil/">
+																Женские сумки на каждый день — удобство и стиль																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+																			    
+				
+									<div class="item-wrapper col-md-4 col-sm-6 col-xs-6 col-xxs-12 clearfix  " data-ref="mixitup-target">
+				
+					
+										<div class="item bg-white  bordered box-shadow rounded3 clearfix" id="bx_3218110189_50470">
+													<div class="image shine">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																	<span class=" bg-fon-img lazy set-position center" data-src="/upload/iblock/ba0/6y4jh9yqhyfoiewke0hmodvrurey8mwu.webp" style="background-image:url(/local/templates/aspro_max/images/loaders/double_ring.svg)"></span>
+																	</a>
+															</div>
+																	<div class="inner-text with-section with-fon">
+																													<div class="section muted font_upper">Советы покупателям</div>
+							
+														
+							<div class="title">
+																	<a href="/blog/sovety-pokupatelyam/kak-pravilno-sochetat-zhenskuyu-sumku-s-obrazom/">
+																Как правильно сочетать женскую сумку с образом?																	</a>
+															</div>
+
+							
+							
+													</div>
+					</div>
+
+								</div>
+											
+			
+			
+			
+				<div class="bottom_nav_wrapper">
+			<div class="bottom_nav animate-load-state has-nav" style='display: none; ' data-parent=".item-views" data-scroll-class=".swipeignore.mobile-overflow" data-append=".items > .row">
+														<div class="ajax_load_btn rounded3 colored_theme_hover_bg">
+			<span class="more_text_ajax font_upper_md">Показать еще</span>
+		</div>
+				<div class="module-pagination">
+		<div class="nums">
+			<ul class="flex-direction-nav">
+																		<li class="flex-nav-next colored_theme_hover_text">
+						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="flex-next">
+							<i class="svg  svg-inline-down" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="5.97" height="10" viewBox="0 0 5.97 10"><path  data-name="Rounded Rectangle 996" class="cls-1" d="M1302.98,2891a0.972,0.972,0,0,1-.23.62c-0.02.03-.03,0.06-0.05,0.09h-0.01l-4.03,3.99a0.955,0.955,0,0,1-1.39,0,1.014,1.014,0,0,1,0-1.41l3.32-3.29-3.3-3.32a0.99,0.99,0,0,1,1.4-1.4l3.98,3.99a0.077,0.077,0,0,0,.03.02A1.031,1.031,0,0,1,1302.98,2891Z" transform="translate(-1297 -2886)"/></svg></i>						</a>
+					</li>
+							</ul>
+															<span class="cur">1</span>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=2" class="dark_link">2</a>
+																				<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=3" class="dark_link">3</a>
+																						<a href="/blog/?PAGEN_2=2&amp;PAGEN_1=4" class="dark_link">4</a>
+								</div>
+	</div>
+							</div>
+		</div>
+
+	
+	
