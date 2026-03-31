@@ -749,68 +749,60 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 				<?endif;?>
 
 				<?//props?>
-				<?$bShowMoreLink = ($iCountProps > $arParams['VISIBLE_PROP_COUNT']);?>
 				<?if( ($arResult['DISPLAY_PROPERTIES'] || $arResult['OFFER_PROP']) && $arParams['VISIBLE_PROP_COUNT'] > 0 ):?>
 					<div class="info_ext_block">
 						<div class="title opened font_upper_md darken colored_theme_hover_text colored_theme_hover_bg_before"><?=($arParams["T_CHARACTERISTICS"] ? $arParams["T_CHARACTERISTICS"] : Loc::getMessage("T_CHARACTERISTICS"));?></div>
 						<div class="text line" style="display:block;">
 							<div class="char-side">
 								<div class="properties list">
-									<div class="properties__container properties <?=!$bShowMoreLink ? 'js-offers-prop' : ''?>">
+									<div class="properties__container properties js-offers-prop">
 										<?$j=0;?>
 										<?foreach($arResult['DISPLAY_PROPERTIES'] as $arProp):?>
-											<?if($j<$arParams['VISIBLE_PROP_COUNT']):?>
-												<div class="properties__item properties__item--compact font_xs js-prop-replace">
-													<div class="properties__title muted properties__item--inline js-prop-title">
-														<?=$arProp['NAME']?>
-														<?if($arProp["HINT"] && $arParams["SHOW_HINTS"]=="Y"):?>
-															<div class="hint">
-																<span class="icon colored_theme_hover_bg"><i>?</i></span>
-																<div class="tooltip"><?=$arProp["HINT"]?></div>
-															</div>
-														<?endif;?>
-													</div>
-													<div class="properties__hr muted properties__item--inline">&mdash;</div>
-													<div class="properties__value darken properties__item--inline js-prop-value">
-														<?if(is_array($arProp["DISPLAY_VALUE"]) && count($arProp["DISPLAY_VALUE"]) > 1):?>
-															<?=implode(', ', $arProp["DISPLAY_VALUE"]);?>
-														<?else:?>
-															<?=$arProp["DISPLAY_VALUE"];?>
-														<?endif;?>
-													</div>
+											<div class="properties__item properties__item--compact font_xs js-prop-replace">
+												<div class="properties__title muted properties__item--inline js-prop-title">
+													<?=$arProp['NAME']?>
+													<?if($arProp["HINT"] && $arParams["SHOW_HINTS"]=="Y"):?>
+														<div class="hint">
+															<span class="icon colored_theme_hover_bg"><i>?</i></span>
+															<div class="tooltip"><?=$arProp["HINT"]?></div>
+														</div>
+													<?endif;?>
 												</div>
-											<?endif;?>
+												<div class="properties__hr muted properties__item--inline">&mdash;</div>
+												<div class="properties__value darken properties__item--inline js-prop-value">
+													<?if(is_array($arProp["DISPLAY_VALUE"]) && count($arProp["DISPLAY_VALUE"]) > 1):?>
+														<?=implode(', ', $arProp["DISPLAY_VALUE"]);?>
+													<?else:?>
+														<?=$arProp["DISPLAY_VALUE"];?>
+													<?endif;?>
+												</div>
+											</div>
 											<?$j++;?>
 										<?endforeach;?>
 										<?foreach($arResult['OFFER_PROP'] as $arProp):?>
-											<?if($j<$arParams['VISIBLE_PROP_COUNT'] || (!$bShowMoreLink && $arParams["VISIBLE_PROP_WITH_OFFER"] !=="Y")):?>
-												<div class="properties__item properties__item--compact font_xs js-prop">
-													<div class="properties__title muted properties__item--inline js-prop-title">
-														<?=$arProp['NAME']?>
-														<?if($arProp["HINT"] && $arParams["SHOW_HINTS"]=="Y"):?>
-															<div class="hint">
-																<span class="icon colored_theme_hover_bg"><i>?</i></span>
-																<div class="tooltip"><?=$arProp["HINT"]?></div>
-															</div>
-														<?endif;?>
-													</div>
-													<div class="properties__hr muted properties__item--inline">&mdash;</div>
-													<div class="properties__value darken properties__item--inline js-prop-value">
-														<?if(is_array($arProp["DISPLAY_VALUE"]) && count($arProp["DISPLAY_VALUE"]) > 1):?>
-															<?=implode(', ', $arProp["DISPLAY_VALUE"]);?>
-														<?else:?>
-															<?=$arProp["DISPLAY_VALUE"];?>
-														<?endif;?>
-													</div>
+											<div class="properties__item properties__item--compact font_xs js-prop">
+												<div class="properties__title muted properties__item--inline js-prop-title">
+													<?=$arProp['NAME']?>
+													<?if($arProp["HINT"] && $arParams["SHOW_HINTS"]=="Y"):?>
+														<div class="hint">
+															<span class="icon colored_theme_hover_bg"><i>?</i></span>
+															<div class="tooltip"><?=$arProp["HINT"]?></div>
+														</div>
+													<?endif;?>
 												</div>
-											<?endif;?>
+												<div class="properties__hr muted properties__item--inline">&mdash;</div>
+												<div class="properties__value darken properties__item--inline js-prop-value">
+													<?if(is_array($arProp["DISPLAY_VALUE"]) && count($arProp["DISPLAY_VALUE"]) > 1):?>
+														<?=implode(', ', $arProp["DISPLAY_VALUE"]);?>
+													<?else:?>
+														<?=$arProp["DISPLAY_VALUE"];?>
+													<?endif;?>
+												</div>
+											</div>
 											<?$j++;?>
 										<?endforeach;?>
 									</div>
 								</div>
-								<?if($bShowMoreLink):?>
-									<div class="more-char-link"><span class="choise colored_theme_text_with_hover font_sxs dotted" data-block=".js-scrolled"><?=Loc::getMessage('ALL_CHARS');?></span></div>
-								<?endif;?>
 							</div>
 						</div>
 					</div>
