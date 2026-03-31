@@ -11,7 +11,7 @@
 			"USE_REGION" => ($arRegion ? "Y" : "N"),
 			"USE_PREDICTION" => $arParams['USE_DETAIL_PREDICTION'],
 			"SECTION_TIZERS"=>$arSection["UF_SECTION_TIZERS"],
-			"HELP_TEXT"=>$arSection["UF_HELP_TEXT"],
+			"HELP_TEXT"=>"",
 			"ALT_TITLE_GET" => $arParams["ALT_TITLE_GET"],
 			"GRUPPER_PROPS" => $arParams["GRUPPER_PROPS"],
 			"USE_CUSTOM_RESIZE" => $arParams["USE_CUSTOM_RESIZE"],
