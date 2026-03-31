@@ -4,6 +4,35 @@ function initMain2DesktopGalleryScroll() {
   var desktopMedia = window.matchMedia("(min-width: 768px)");
   var galleryScroll = document.querySelector(".product-view--type2 .product-detail-gallery__desktop-scroll");
   var pageSection = galleryScroll && (galleryScroll.closest(".flexbox") || galleryScroll.closest(".product-info-wrapper"));
+  var targetScrollTop = galleryScroll ? galleryScroll.scrollTop : 0;
+  var animationFrame = 0;
+
+  function clampScroll(value) {
+    var maxScroll = galleryScroll.scrollHeight - galleryScroll.clientHeight;
+    return Math.max(0, Math.min(maxScroll, value));
+  }
+
+  function animateGalleryScroll() {
+    var currentScrollTop = galleryScroll.scrollTop;
+    var diff = targetScrollTop - currentScrollTop;
+
+    if (Math.abs(diff) < 0.5) {
+      galleryScroll.scrollTop = targetScrollTop;
+      animationFrame = 0;
+      return;
+    }
+
+    galleryScroll.scrollTop = currentScrollTop + diff * 0.18;
+    animationFrame = window.requestAnimationFrame(animateGalleryScroll);
+  }
+
+  function queueGalleryScroll(nextScrollTop) {
+    targetScrollTop = clampScroll(nextScrollTop);
+
+    if (!animationFrame) {
+      animationFrame = window.requestAnimationFrame(animateGalleryScroll);
+    }
+  }
 
   if (!galleryScroll || !pageSection) {
     return;
@@ -26,7 +55,14 @@ function initMain2DesktopGalleryScroll() {
       }
 
       var sectionRect = pageSection.getBoundingClientRect();
+      var galleryRect = galleryScroll.getBoundingClientRect();
+      var visibleTop = Math.max(galleryRect.top, 0);
+      var visibleBottom = Math.min(galleryRect.bottom, window.innerHeight);
+      var visibleHeight = Math.max(0, visibleBottom - visibleTop);
       var isSectionVisible = sectionRect.top < window.innerHeight && sectionRect.bottom > 0;
+      var isGalleryVisible = isSectionVisible && visibleHeight > 80;
+      var isReadyForReverseScroll = isGalleryVisible && galleryRect.top >= 0 && galleryRect.bottom <= window.innerHeight + 40;
+
       if (!isSectionVisible) {
         return;
       }
@@ -36,7 +72,15 @@ function initMain2DesktopGalleryScroll() {
         return;
       }
 
-      var currentScroll = galleryScroll.scrollTop;
+      if (deltaY > 0 && !isGalleryVisible) {
+        return;
+      }
+
+      if (deltaY < 0 && !isReadyForReverseScroll) {
+        return;
+      }
+
+      var currentScroll = animationFrame ? targetScrollTop : galleryScroll.scrollTop;
       var canScrollDown = deltaY > 0 && currentScroll < maxScroll - 1;
       var canScrollUp = deltaY < 0 && currentScroll > 1;
 
@@ -45,7 +89,7 @@ function initMain2DesktopGalleryScroll() {
       }
 
       e.preventDefault();
-      galleryScroll.scrollTop = Math.max(0, Math.min(maxScroll, currentScroll + deltaY));
+      queueGalleryScroll(currentScroll + deltaY * 0.9);
     },
     { passive: false }
   );
