@@ -200,6 +200,20 @@ if($arCurrentValues["SHOW_BUY_DELIVERY"] != "N")
 		"DEFAULT" => GetMessage("VALUE_BUY_DELIVERY"),
 	);
 }
+$arTemplateParametersParts[]["SHOW_BRAND_BLOCK"] = array(
+	"NAME" => "Отображать блок \"Бренд\" в детальной карточке тип2",
+	"TYPE" => "CHECKBOX",
+	"DEFAULT" => "Y",
+	"REFRESH" => "Y",
+);
+if($arCurrentValues["SHOW_BRAND_BLOCK"] != "N")
+{
+	$arTemplateParametersParts[]["TITLE_BRAND"] = array(
+		"NAME" => "Заголовок блока \"Бренд\"",
+		"TYPE" => "STRING",
+		"DEFAULT" => "Бренд",
+	);
+}
 
 $arTemplateParametersParts[] = array_merge($arPageBlocksParams,array(
 	"IBLOCK_STOCK_ID" => Array(
