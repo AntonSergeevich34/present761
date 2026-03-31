@@ -101,9 +101,8 @@
 
 .product-view--type2 .product-detail-gallery__desktop-item,
 .product-view--type2 .product-detail-gallery__desktop-video {
-  border: 1px solid #ececec;
-  border-color: var(--stroke_black);
-  border-radius: 3px;
+  border: 0;
+  border-radius: 0;
   background: #fff;
   background: var(--black_bg_black);
   overflow: hidden;
