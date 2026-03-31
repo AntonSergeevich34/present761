@@ -587,7 +587,7 @@ $APPLICATION->IncludeComponent(
 		"ADD_PICT_PROP" => "MORE_PHOTO",
 		"OFFER_ADD_PICT_PROP" => "-",
 		"MAX_GALLERY_ITEMS" => "2",
-		"SHOW_GALLERY" => "N",
+		"SHOW_GALLERY" => "Y",
 		"SHOW_PROPS" => "Y",
 		"DETAIL_ADD_DETAIL_TO_SLIDER" => "Y",
 		"SKU_DETAIL_ID" => "oid",
