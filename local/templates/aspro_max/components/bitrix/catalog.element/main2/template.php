@@ -570,6 +570,47 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 					<?endif;?>
 
 					<link href="<?=($arFirstPhoto["BIG"]["src"] ? $arFirstPhoto["BIG"]["src"] : $arFirstPhoto["SRC"]);?>" itemprop="image"/>
+					<div class="product-detail-gallery__desktop-scroll hidden-xs">
+						<div class="product-detail-gallery__desktop-scroll-inner">
+							<?if($arResult["MORE_PHOTO"]){?>
+								<?foreach($arResult["MORE_PHOTO"] as $i => $arImage){
+									$isEmpty = !$arImage["SMALL"]["src"];
+									$alt = $arImage["ALT"];
+									$title = $arImage["TITLE"];
+									$desktopImage = ($arImage["BIG"]["src"] ? $arImage["BIG"]["src"] : $arImage["SRC"]);
+								?>
+									<div class="product-detail-gallery__desktop-item<?=($isEmpty ? ' product-detail-gallery__desktop-item--empty' : '')?>">
+										<?if(!$isEmpty){?>
+											<a href="<?=$desktopImage;?>" data-fancybox="gallery" class="product-detail-gallery__desktop-link popup_link fancy" title="<?=$title;?>">
+												<img
+													class="lazy product-detail-gallery__desktop-picture"
+													data-src="<?=$arImage["SMALL"]["src"];?>"
+													src="<?=\Aspro\Functions\CAsproMax::showBlankImg($arImage["SMALL"]["src"]);?>"
+													alt="<?=$alt;?>"
+													title="<?=$title;?>"
+												/>
+											</a>
+										<?}else{?>
+											<img
+												class="lazy product-detail-gallery__desktop-picture"
+												data-src="<?=$desktopImage;?>"
+												src="<?=\Aspro\Functions\CAsproMax::showBlankImg($desktopImage);?>"
+												alt="<?=$alt;?>"
+												title="<?=$title;?>"
+											/>
+										<?}?>
+									</div>
+								<?}?>
+							<?}?>
+							<?if($popupVideo):?>
+								<div class="product-detail-gallery__desktop-video">
+									<a class="various video_link image dark_link" href="<?=$popupVideo;?>" title="<?=Loc::getMessage("VIDEO")?>">
+										<span class="play text-upper font_xs"><?=Loc::getMessage("VIDEO")?></span>
+									</a>
+								</div>
+							<?endif;?>
+						</div>
+					</div>
 					<div class="product-detail-gallery__slider<?if(!$bMagnifier):?> owl-carousel owl-theme big owl-bg-nav short-nav<?else:?> hidden-xs<?endif;?> <?=$arParams['PICTURE_RATIO'];?>" data-plugin-options='{"items": "1", "dots": true, "nav": true, "relatedTo": ".product-detail-gallery__slider.thmb", "loop": false}'>
 					<?if($arResult["MORE_PHOTO"]){?>
 						<?foreach($arResult["MORE_PHOTO"] as $i => $arImage){
