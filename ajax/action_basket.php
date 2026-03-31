@@ -1,4 +1,4 @@
-USE_ADDITIONAL_GALLERY<?
+<?
 use Bitrix\Main\Loader;
 
 include_once('const.php');
