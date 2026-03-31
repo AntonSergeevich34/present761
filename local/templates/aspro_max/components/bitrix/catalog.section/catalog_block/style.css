@@ -44,6 +44,10 @@
   #main .catalog_in_content .section-content-wrapper.with-leftblock .col-lg-4:not(.custom-line) {
     width: 33.33%;
   }
+
+  #main .catalog_page .right_block.wide_Y .ajax_load .top_wrapper .col-lg-3:not(.custom-line) {
+    width: 25%;
+  }
 }
 
 @media (min-width: 1200px) and (max-width: 1499px) {
