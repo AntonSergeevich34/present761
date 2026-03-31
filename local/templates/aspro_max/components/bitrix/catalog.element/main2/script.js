@@ -1,5 +1,56 @@
 var ItemObj = {};
 
+function initMain2DesktopGalleryScroll() {
+  var desktopMedia = window.matchMedia("(min-width: 768px)");
+  var galleryScroll = document.querySelector(".product-view--type2 .product-detail-gallery__desktop-scroll");
+  var pageSection = galleryScroll && (galleryScroll.closest(".flexbox") || galleryScroll.closest(".product-info-wrapper"));
+
+  if (!galleryScroll || !pageSection) {
+    return;
+  }
+
+  window.addEventListener(
+    "wheel",
+    function (e) {
+      if (!desktopMedia.matches) {
+        return;
+      }
+
+      if ($("body").hasClass("fancybox-active")) {
+        return;
+      }
+
+      var maxScroll = galleryScroll.scrollHeight - galleryScroll.clientHeight;
+      if (maxScroll <= 1) {
+        return;
+      }
+
+      var sectionRect = pageSection.getBoundingClientRect();
+      var isSectionVisible = sectionRect.top < window.innerHeight && sectionRect.bottom > 0;
+      if (!isSectionVisible) {
+        return;
+      }
+
+      var deltaY = e.deltaY || 0;
+      if (!deltaY) {
+        return;
+      }
+
+      var currentScroll = galleryScroll.scrollTop;
+      var canScrollDown = deltaY > 0 && currentScroll < maxScroll - 1;
+      var canScrollUp = deltaY < 0 && currentScroll > 1;
+
+      if (!canScrollDown && !canScrollUp) {
+        return;
+      }
+
+      e.preventDefault();
+      galleryScroll.scrollTop = Math.max(0, Math.min(maxScroll, currentScroll + deltaY));
+    },
+    { passive: false }
+  );
+}
+
 $(document).ready(function () {
   setTimeout(function () {
     setNewHeader();
@@ -32,6 +83,7 @@ $(document).ready(function () {
   var options = {};
   $(".tabs.arrow_scroll").scrollTab(options);
   InitStickySideBar(".sticky-sidebar-custom", ".bottom-info-wrapper");
+  initMain2DesktopGalleryScroll();
 
   $(".opener").click(function () {
     $(this).find(".opener_icon").toggleClass("opened");
