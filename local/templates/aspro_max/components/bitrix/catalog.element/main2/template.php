@@ -749,10 +749,10 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 				<?endif;?>
 
 				<?//props?>
-				<?if( ($arResult['DISPLAY_PROPERTIES'] || $arResult['OFFER_PROP']) && $arParams['VISIBLE_PROP_COUNT'] > 0 ):?>
+				<?if($arResult['DISPLAY_PROPERTIES'] || $arResult['OFFER_PROP']):?>
 					<div class="info_ext_block">
-						<div class="title opened font_upper_md darken colored_theme_hover_text colored_theme_hover_bg_before"><?=($arParams["T_CHARACTERISTICS"] ? $arParams["T_CHARACTERISTICS"] : Loc::getMessage("T_CHARACTERISTICS"));?></div>
-						<div class="text line" style="display:block;">
+						<div class="title font_upper_md darken colored_theme_hover_text colored_theme_hover_bg_before"><?=($arParams["T_CHARACTERISTICS"] ? $arParams["T_CHARACTERISTICS"] : Loc::getMessage("T_CHARACTERISTICS"));?></div>
+						<div class="text line">
 							<div class="char-side">
 								<div class="properties list">
 									<div class="properties__container properties js-offers-prop">
@@ -801,6 +801,29 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 											</div>
 											<?$j++;?>
 										<?endforeach;?>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				<?endif;?>
+				<?if($arParams['SHOW_BRAND_BLOCK'] != 'N' && $arResult['BRAND_ITEM']):?>
+					<div class="info_ext_block">
+						<div class="title font_upper_md darken colored_theme_hover_text colored_theme_hover_bg_before"><?=$arParams['TITLE_BRAND'] ?: 'Бренд';?></div>
+						<div class="text text--with-pt font_xs">
+							<div class="brand-detail">
+								<div class="brand-detail-info bordered rounded3">
+									<?if($arResult['BRAND_ITEM']["IMAGE"]):?>
+										<div class="brand-detail-info__image"><a href="<?=$arResult['BRAND_ITEM']["DETAIL_PAGE_URL"];?>"><img src="<?=$arResult['BRAND_ITEM']["IMAGE"]["src"];?>" alt="<?=$arResult['BRAND_ITEM']["NAME"];?>" title="<?=$arResult['BRAND_ITEM']["NAME"];?>" itemprop="image"></a></div>
+									<?endif;?>
+									<div class="brand-detail-info__preview">
+										<?if($arResult['BRAND_ITEM']["PREVIEW_TEXT"]):?>
+											<div class="text muted777 font_xs"><?=$arResult['BRAND_ITEM']["PREVIEW_TEXT"];?></div>
+										<?endif;?>
+										<?if($arResult['SECTION']):?>
+											<div class="link font_xs"><a href="<?= $arResult['BRAND_ITEM']['CATALOG_PAGE_URL'] ?>" target="_blank"><?=GetMessage("ITEMS_BY_SECTION")?></a></div>
+										<?endif;?>
+										<div class="link font_xs"><a href="<?=$arResult['BRAND_ITEM']["DETAIL_PAGE_URL"];?>" target="_blank"><?=GetMessage("ITEMS_BY_BRAND", array("#BRAND#" => $arResult['BRAND_ITEM']["NAME"]))?></a></div>
 									</div>
 								</div>
 							</div>
@@ -1163,27 +1186,6 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 						</div>
 					<?endif;?>
 
-					<?//brand?>
-					<?$this->SetViewTarget('PRODUCT_SIDE_INFO', 900);?>
-						<?if($arResult['BRAND_ITEM']):?>
-							<div class="brand-detail">
-								<div class="brand-detail-info bordered rounded3">
-									<?if($arResult['BRAND_ITEM']["IMAGE"]):?>
-										<div class="brand-detail-info__image"><a href="<?=$arResult['BRAND_ITEM']["DETAIL_PAGE_URL"];?>"><img src="<?=$arResult['BRAND_ITEM']["IMAGE"]["src"];?>" alt="<?=$arResult['BRAND_ITEM']["NAME"];?>" title="<?=$arResult['BRAND_ITEM']["NAME"];?>" itemprop="image"></a></div>
-									<?endif;?>
-									<div class="brand-detail-info__preview">
-										<?if($arResult['BRAND_ITEM']["PREVIEW_TEXT"]):?>
-											<div class="text muted777 font_xs"><?=$arResult['BRAND_ITEM']["PREVIEW_TEXT"];?></div>
-										<?endif;?>
-										<?if($arResult['SECTION']):?>
-											<div class="link font_xs"><a href="<?= $arResult['BRAND_ITEM']['CATALOG_PAGE_URL'] ?>" target="_blank"><?=GetMessage("ITEMS_BY_SECTION")?></a></div>
-										<?endif;?>
-										<div class="link font_xs"><a href="<?=$arResult['BRAND_ITEM']["DETAIL_PAGE_URL"];?>" target="_blank"><?=GetMessage("ITEMS_BY_BRAND", array("#BRAND#" => $arResult['BRAND_ITEM']["NAME"]))?></a></div>
-									</div>
-								</div>
-							</div>
-						<?endif;?>
-					<?$this->EndViewTarget();?>
 				</div>
 			</div>
 
@@ -1330,7 +1332,7 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 <?endif;?>
 
 <?//props content?>
-<?if(($arResult['DISPLAY_PROPERTIES'] || $arResult['OFFER_PROP']) && ($iCountProps > $arParams['VISIBLE_PROP_COUNT'])):?>
+<?if(false && ($arResult['DISPLAY_PROPERTIES'] || $arResult['OFFER_PROP']) && ($iCountProps > $arParams['VISIBLE_PROP_COUNT'])):?>
 	<?$templateData['CHARACTERISTICS'] = true;?>
 	<?$this->SetViewTarget('PRODUCT_PROPS_INFO');?>
 		<?$strGrupperType = $arParams["GRUPPER_PROPS"];?>
