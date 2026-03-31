@@ -1388,7 +1388,9 @@ body .catalog_detail .common_select .common_select-link .trigger {
   margin: 34px 0px 0px;
   border-color: var(--stroke_black);
 }
-.product-main .product-chars > .info_ext_block:first-of-type {
+.product-main .product-chars > .product-info-headnote + .info_ext_block,
+.product-main .product-chars > .js-sales + .info_ext_block,
+.product-main .product-chars > .product-info-headnote + .js-sales + .info_ext_block {
   margin-top: 0;
 }
 .product-main .info_ext_block + .info_ext_block {
