@@ -10,12 +10,6 @@ global $arTheme, $arRegion;
 $arBlockOrder = explode(",", $arParams["DETAIL_BLOCKS_ORDER"]);
 $arTabOrder = explode(",", $arParams["DETAIL_BLOCKS_TAB_ORDER"]);
 
-if (in_array('desc', $arBlockOrder, true) && in_array('gifts', $arBlockOrder, true)) {
-	$arBlockOrder = array_values(array_diff($arBlockOrder, array('desc')));
-	$giftsIndex = array_search('gifts', $arBlockOrder, true);
-	array_splice($arBlockOrder, $giftsIndex, 0, array('desc'));
-}
-
 //add new blocks in update
 if( !in_array('buy_services', $arTabOrder) ){
 	$arTabOrder[] = 'buy_services';
@@ -37,6 +31,23 @@ if($arTheme['USE_DETAIL_TABS']['VALUE'] != 'Y'){
 //add new blocks in update
 if( !in_array('modules', $arBlockOrder) ){
 	$arBlockOrder[] = 'modules';
+}
+
+if (in_array('desc', $arBlockOrder, true)) {
+	$targetBlock = false;
+
+	if (in_array('goods', $arBlockOrder, true)) {
+		$targetBlock = 'goods';
+	}
+	elseif (in_array('gifts', $arBlockOrder, true)) {
+		$targetBlock = 'gifts';
+	}
+
+	if ($targetBlock) {
+		$arBlockOrder = array_values(array_diff($arBlockOrder, array('desc')));
+		$targetIndex = array_search($targetBlock, $arBlockOrder, true);
+		array_splice($arBlockOrder, $targetIndex, 0, array('desc'));
+	}
 }
 
 $currentProductId = $templateData['OFFERS_INFO']["CURRENT_OFFER"] ?? $arResult['ID'] ;
