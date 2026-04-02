@@ -1943,6 +1943,17 @@ body .simple_page .top-content-block > div {
     margin-top: 35px;
   }
 }
+
+@media (min-width: 601px) and (max-width: 1199px) {
+  .product-view--type2 .product-info > .flexbox {
+    column-gap: 24px;
+    justify-content: center;
+  }
+
+  .product-view--type2 .product-info > .flexbox > .product-action {
+    padding-left: 24px;
+  }
+}
 @media (min-width: 992px) {
   .right_block:not(.catalog_page_detail_with_left) .product-view--side-left,
   .right_block:not(.catalog_page_detail_with_left) .product-view--side-right {
