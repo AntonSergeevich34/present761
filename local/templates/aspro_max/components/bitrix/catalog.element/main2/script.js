@@ -9,6 +9,10 @@ $(document).ready(function () {
     setNewHeader();
   }, 10);
 
+  if ($(".product-view--type2 .product-detail-title").length) {
+    $("body").addClass("catalog-detail-title--inside");
+  }
+
   //change fixed header
   if (arMaxOptions["THEME"]["SHOW_HEADER_GOODS"] == "Y") $("#headerfixed .logo-row").addClass("wproducts");
 
