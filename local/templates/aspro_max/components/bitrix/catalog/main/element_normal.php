@@ -294,8 +294,6 @@ if ($oidParam = $arParams["SKU_DETAIL_ID"]) {
 					}
 				}
 
-				if (arAjaxPageData.TITLE)
-					$('h1').html(arAjaxPageData.TITLE);
 				if (arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE)
 				{
 					$('.js_seo_title').html(arAjaxPageData.WINDOW_TITLE || arAjaxPageData.TITLE); //seo fix for spec symbol
@@ -304,7 +302,7 @@ if ($oidParam = $arParams["SKU_DETAIL_ID"]) {
 
 				if (arAjaxPageData.NAV_CHAIN)
 					BX.ajax.UpdatePageNavChain(arAjaxPageData.NAV_CHAIN);
-				$('.catalog_detail input[data-sid="PRODUCT_NAME"]').attr('value', $('h1').html());
+				$('.catalog_detail input[data-sid="PRODUCT_NAME"]').attr('value', $('.product-detail-title').first().text());
 			});
 		</script>
 		<?/*fix title after ajax form end*/?>

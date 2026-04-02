@@ -1500,7 +1500,7 @@ $currentProductId = $templateData['OFFERS_INFO']["CURRENT_OFFER"] ?? $arResult['
 							$bShowAssociatedTab = \Aspro\Functions\CAsproMax::checkAvailable($templateData['ASSOCIATED'], array('REGION'), $arParams);
 							?>
 							<?if($bShowAssociatedTab):?>
-								<div class="ordered-block <?=$code?> cur main2-linked-goods">
+								<div class="ordered-block <?=$code?> cur">
 									<div class="ordered-block__title option-font-bold font_lg">
 										<?=$arParams["DETAIL_ASSOCIATED_TITLE"];?>
 									</div>
@@ -1537,7 +1537,7 @@ $currentProductId = $templateData['OFFERS_INFO']["CURRENT_OFFER"] ?? $arResult['
 							$bShowExpandablesTab = \Aspro\Functions\CAsproMax::checkAvailable($templateData['EXPANDABLES'], array('REGION'), $arParams);
 							?>
 							<?if($bShowExpandablesTab):?>
-								<div class="ordered-block <?=$code?> cur main2-linked-goods">
+								<div class="ordered-block <?=$code?> cur">
 									<div class="ordered-block__title option-font-bold font_lg">
 										<?=$arParams["DETAIL_EXPANDABLES_TITLE"];?>
 									</div>
