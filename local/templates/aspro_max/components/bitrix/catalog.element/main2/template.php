@@ -691,6 +691,7 @@ $iCountProps = count($arResult['DISPLAY_PROPERTIES']) + $offerPropCount;
 
 			<?//article,rating,props,sales?>
 			<div class="product-chars">
+				<div class="product-detail-title darken"><?=$name?></div>
 				<?//article,rating?>
 				<div class="product-info-headnote clearfix">
 					<div class="flexbox flexbox--row align-items-center justify-content-between flex-wrap">
