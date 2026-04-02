@@ -1026,7 +1026,7 @@ body .char-side .properties .properties.js-offers-props {
 }
 .product-view--type2 .product-chars .product-detail-title {
   margin: 0 0 24px;
-  font-size: 42px;
+  font-size: 25px;
   line-height: 1.08;
   font-weight: 700;
   color: var(--white_text_black2);
