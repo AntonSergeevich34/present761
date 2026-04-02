@@ -1021,7 +1021,8 @@ body .char-side .properties .properties.js-offers-props {
 .product-view--type2 .product-chars {
   position: relative;
 }
-.catalog-detail-title--inside .page-top .topic__heading {
+.catalog-detail-title--inside .page-top .topic__heading,
+.catalog-detail-title--inside .page-top h1 {
   display: none;
 }
 .product-view--type2 .product-chars .product-detail-title {
