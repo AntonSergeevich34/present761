@@ -1124,6 +1124,33 @@ body .char-side .properties .properties.js-offers-props {
   white-space: nowrap;
   text-align: right;
 }
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price_matrix_wrapper {
+  display: block;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .prices-wrapper {
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-end;
+  margin: 0;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price {
+  display: inline-flex;
+  align-items: baseline;
+  margin: 0;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price.font_mxs,
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price.font_mxs .price_value,
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price.font_mxs .price_currency {
+  font-size: 1.133em;
+  line-height: 1.2;
+  font-weight: 700;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost .price_currency {
+  margin-left: 4px;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__buy {
+  margin-top: 8px;
+}
 .product-action .shadowed-block {
   background-color: var(--card_bg_black);
 }
