@@ -92,37 +92,47 @@
 }
 
 @media (min-width: 1200px) {
-  .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-stage {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.items.owl-carousel {
+    width: auto;
+    margin: 0;
+  }
+
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-stage {
     display: flex;
     align-items: stretch;
   }
 
-  .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-item {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-item {
     display: flex;
     float: none;
   }
 
-  .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-item > .item-parent {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-item > .item-parent {
     width: 100%;
+    padding: 0;
   }
 
-  .catalog_block_accessories_template .catalog_item_wrapp,
-  .catalog_block_accessories_template .catalog_item_wrapp .inner_wrap {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_item_wrapp,
+  .ordered-block.goods .catalog_block_accessories_template .catalog_item_wrapp .inner_wrap {
     height: 100%;
   }
 
-  .catalog_block_accessories_template .catalog_item .image_wrapper_block {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_item .image_wrapper_block {
     padding-left: 16px;
     padding-right: 16px;
   }
 
-  .catalog_block_accessories_template .catalog_block .catalog_item > div {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block .catalog_item > div {
     padding-left: 28px;
     padding-right: 28px;
   }
 
-  .catalog_block_accessories_template .catalog_block.owl-carousel .owl-stage-outer {
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.owl-carousel .owl-stage-outer {
     margin-right: 0;
     padding-right: 0;
+  }
+
+  .ordered-block.goods .catalog_block_accessories_template .catalog_block.owl-carousel .owl-nav {
+    opacity: 1;
   }
 }
