@@ -1151,21 +1151,6 @@ body .char-side .properties .properties.js-offers-props {
 .product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__buy {
   margin-top: 8px;
 }
-.main2-linked-goods .ajax_load .top_wrapper .catalog_block .catalog_item > div {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-.main2-linked-goods .ajax_load .top_wrapper .catalog_item .footer_button {
-  margin-left: -20px;
-  margin-right: -20px;
-}
-.main2-linked-goods .catalog_block_template .catalog_block.owl-carousel .owl-stage-outer {
-  margin-right: 0;
-  padding-right: 0;
-}
-.main2-linked-goods .catalog_block_template .catalog_block.owl-carousel .owl-stage-outer .owl-item {
-  min-width: 0;
-}
 .product-action .shadowed-block {
   background-color: var(--card_bg_black);
 }
