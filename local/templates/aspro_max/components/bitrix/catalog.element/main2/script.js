@@ -11,6 +11,7 @@ $(document).ready(function () {
 
   if ($(".product-view--type2 .product-detail-title").length) {
     $("body").addClass("catalog-detail-title--inside");
+    $(".page-top .topic__heading, .page-top h1").hide();
   }
 
   //change fixed header
