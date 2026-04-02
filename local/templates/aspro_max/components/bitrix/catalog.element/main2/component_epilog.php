@@ -10,6 +10,12 @@ global $arTheme, $arRegion;
 $arBlockOrder = explode(",", $arParams["DETAIL_BLOCKS_ORDER"]);
 $arTabOrder = explode(",", $arParams["DETAIL_BLOCKS_TAB_ORDER"]);
 
+if (in_array('desc', $arBlockOrder, true) && in_array('gifts', $arBlockOrder, true)) {
+	$arBlockOrder = array_values(array_diff($arBlockOrder, array('desc')));
+	$giftsIndex = array_search('gifts', $arBlockOrder, true);
+	array_splice($arBlockOrder, $giftsIndex, 0, array('desc'));
+}
+
 //add new blocks in update
 if( !in_array('buy_services', $arTabOrder) ){
 	$arTabOrder[] = 'buy_services';
