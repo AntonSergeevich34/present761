@@ -208,6 +208,7 @@ $currentProductId = $templateData['OFFERS_INFO']["CURRENT_OFFER"] ?? $arResult['
 				"bitrix:catalog.section",
 				"services_list",
 				[
+					'COMPATIBLE_MODE' => "Y",
 					'IBLOCK_ID' => $arParams['IBLOCK_SERVICES_ID'],
 					'PRICE_CODE' => $arParams['PRICE_CODE'],
 					'FILTER_NAME' => 'arBuyServicesFilter',
@@ -253,6 +254,7 @@ $currentProductId = $templateData['OFFERS_INFO']["CURRENT_OFFER"] ?? $arResult['
 				"bitrix:catalog.section",
 				"services_list",
 				[
+					'COMPATIBLE_MODE' => "Y",
 					'IBLOCK_ID' => $arParams['IBLOCK_SERVICES_ID'],
 					'PRICE_CODE' => $arParams['PRICE_CODE'],
 					'FILTER_NAME' => 'arBuyServicesFilter',
