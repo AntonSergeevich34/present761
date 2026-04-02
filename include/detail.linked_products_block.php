@@ -33,7 +33,7 @@ echo '</pre>'; */
 
 $APPLICATION->IncludeComponent(
 	"bitrix:catalog.section",
-	"catalog_block",
+	"catalog_block_custom",
 	array(
 		'COMPATIBLE_MODE'=> 'Y',
 		"IBLOCK_TYPE" => $arParams["IBLOCK_TYPE"],
@@ -88,7 +88,7 @@ $APPLICATION->IncludeComponent(
 		"CURRENCY_ID" => $arParams["CURRENCY_ID"] ? $arParams["CURRENCY_ID"] : 'RUB',
 		"TYPE_VIEW_BASKET_BTN" => "TYPE_2",
 		"USE_PRODUCT_QUANTITY" => "N",
-		"COMPONENT_TEMPLATE" => "catalog_block",
+		"COMPONENT_TEMPLATE" => "catalog_block_custom",
 		"ELEMENT_SORT_FIELD2" => "id",
 		"ELEMENT_SORT_ORDER2" => "desc",
 		"HIDE_NOT_AVAILABLE" => $arParams["HIDE_NOT_AVAILABLE"],
