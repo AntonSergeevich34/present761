@@ -34,6 +34,11 @@
   .col-lg-5_2.custom-line {
     width: 20%;
   }
+  #main .right_block.wide_Y.catalog_page .ajax_load .top_wrapper .col-lg-3:not(.custom-line),
+  #main .catalog_page .section-content-wrapper .ajax_load .top_wrapper .col-lg-3:not(.custom-line),
+  #main .catalog_in_content .section-content-wrapper .ajax_load .top_wrapper .col-lg-3:not(.custom-line) {
+    width: 25%;
+  }
   .right_block.wide_Y .ajax_load .top_wrapper .col-lg-4:not(.custom-line),
   #main .catalog_page .section-content-wrapper.with-leftblock .col-lg-3:not(.custom-line),
   #main .catalog_in_content .section-content-wrapper.with-leftblock .col-lg-3:not(.custom-line) {
