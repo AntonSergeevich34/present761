@@ -2332,6 +2332,7 @@ body .simple_page .top-content-block > div {
   }
 
   .product-view--type2 .product-info > .flexbox > div:not(.product-detail-gallery) {
+    max-width: none;
     flex-basis: 100%;
   }
 
