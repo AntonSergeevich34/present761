@@ -1102,6 +1102,28 @@ body .char-side .properties .properties.js-offers-props {
 .product-view--type2 .product-action .middle-info-wrapper {
   margin: 0px 0px 16px;
 }
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__inner {
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__info {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__title {
+  min-width: 0;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__title .dotted {
+  display: block;
+}
+.product-view--type2 .product-action .buy_services_wrap.in_announce .services-item__cost {
+  flex: 0 0 auto;
+  min-width: max-content;
+  margin-left: auto;
+  white-space: nowrap;
+  text-align: right;
+}
 .product-action .shadowed-block {
   background-color: var(--card_bg_black);
 }
