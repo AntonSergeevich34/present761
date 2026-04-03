@@ -20845,10 +20845,7 @@ table.contacts-stores tr.item td:last-of-type {
     .product-detail-gallery__desktop-item
     .product-detail-gallery__desktop-link
     > .product-detail-gallery__desktop-picture {
-    max-width: 75% !important;
-    width: 75% !important;
-    margin: auto;
-    max-height: 100% !important;
+    max-width: 60% !important;
   }
 }
 
