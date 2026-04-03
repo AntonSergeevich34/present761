@@ -20841,11 +20841,14 @@ table.contacts-stores tr.item td:last-of-type {
 }
 
 @media (min-width: 992px) {
-  .catalog_page_detail .product-view--type2 .product-detail-gallery .product-detail-gallery__desktop-picture {
-    max-width: 75%;
-    width: auto;
+  .product-view--type2
+    .product-detail-gallery__desktop-item
+    .product-detail-gallery__desktop-link
+    > .product-detail-gallery__desktop-picture {
+    max-width: 75% !important;
+    width: 75% !important;
     margin: auto;
-    max-height: 100%;
+    max-height: 100% !important;
   }
 }
 
