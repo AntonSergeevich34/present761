@@ -20841,15 +20841,19 @@ table.contacts-stores tr.item td:last-of-type {
 }
 
 @media (min-width: 992px) {
-  .catalog_page_detail .product-detail-gallery .product-detail-gallery__desktop-picture {
+  .catalog_page_detail .product-view--type2 .product-detail-gallery .product-detail-gallery__desktop-picture {
     max-width: 75%;
+    width: auto;
     margin: auto;
     max-height: 100%;
   }
 }
 
 @media (min-width: 1200px) {
-  .ordered-block.goods .catalog_block_accessories_template .catalog_block.items.owl-carousel .owl-item {
-    width: 375.25px !important;
+  .ordered-block.goods
+    .catalog_block_accessories_template
+    .catalog_block.items.owl-carousel
+    .owl-stage-outer {
+    margin-right: -1px;
   }
 }
