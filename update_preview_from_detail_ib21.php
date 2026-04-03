@@ -19,10 +19,14 @@ if (!Loader::includeModule('iblock')) {
 }
 
 $iblockId = 21;
-$limit = isset($_GET['limit']) ? max(1, min(1000, (int)$_GET['limit'])) : 200;
+$limit = isset($_GET['limit']) ? max(1, min(500, (int)$_GET['limit'])) : 100;
 $lastId = isset($_GET['last_id']) ? max(0, (int)$_GET['last_id']) : 0;
-$sleepUs = isset($_GET['sleep_us']) ? max(0, min(500000, (int)$_GET['sleep_us'])) : 50000;
+$sleepUs = isset($_GET['sleep_us']) ? max(0, min(500000, (int)$_GET['sleep_us'])) : 100000;
 $run = isset($_GET['run']) ? (string)$_GET['run'] === '1' : true;
+$auto = isset($_GET['auto']) ? (string)$_GET['auto'] === '1' : false;
+$delay = isset($_GET['delay']) ? max(1, min(30, (int)$_GET['delay'])) : 2;
+$step = isset($_GET['step']) ? max(1, (int)$_GET['step']) : 1;
+$maxSteps = isset($_GET['max_steps']) ? max(1, min(500, (int)$_GET['max_steps'])) : 50;
 
 $scriptName = basename(__FILE__);
 $logFile = $_SERVER['DOCUMENT_ROOT'] . '/update_preview_from_detail_ib21.log';
@@ -50,7 +54,10 @@ function addMessage(&$messages, $message)
     $messages[] = $message;
 }
 
-writeLog($logFile, "=== Start batch: iblock=21, last_id={$lastId}, limit={$limit}, run=" . ($run ? '1' : '0') . " ===");
+writeLog(
+    $logFile,
+    "=== Start batch: iblock=21, last_id={$lastId}, limit={$limit}, run=" . ($run ? '1' : '0') . ", auto=" . ($auto ? '1' : '0') . ", step={$step}/{$maxSteps} ==="
+);
 
 $res = CIBlockElement::GetList(
     ['ID' => 'ASC'],
@@ -90,6 +97,8 @@ while ($item = $res->Fetch()) {
     }
 
     $fileArray['MODULE_ID'] = 'iblock';
+    $fileArray['old_file'] = (int)$item['PREVIEW_PICTURE'];
+    $fileArray['del'] = 'N';
 
     if (!$run) {
         $message = "DRY #{$itemId} {$itemName}: PREVIEW_PICTURE <= DETAIL_PICTURE {$detailPictureId}";
@@ -119,7 +128,19 @@ while ($item = $res->Fetch()) {
 }
 
 $hasNext = $stats['selected'] === $limit;
-$nextUrl = htmlspecialcharsbx('/' . $scriptName . '?last_id=' . $nextLastId . '&limit=' . $limit . '&sleep_us=' . $sleepUs . '&run=' . ($run ? '1' : '0'));
+$canAutoContinue = $hasNext && $auto && $step < $maxSteps;
+$nextQuery = http_build_query([
+    'last_id' => $nextLastId,
+    'limit' => $limit,
+    'sleep_us' => $sleepUs,
+    'run' => $run ? '1' : '0',
+    'auto' => $auto ? '1' : '0',
+    'delay' => $delay,
+    'step' => $step + 1,
+    'max_steps' => $maxSteps,
+]);
+$nextUrlRaw = '/' . $scriptName . '?' . $nextQuery;
+$nextUrl = htmlspecialcharsbx($nextUrlRaw);
 
 writeLog(
     $logFile,
@@ -132,6 +153,9 @@ header('Content-Type: text/html; charset=UTF-8');
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <?php if ($canAutoContinue): ?>
+        <meta http-equiv="refresh" content="<?= $delay ?>;url=<?= $nextUrl ?>">
+    <?php endif; ?>
     <title>Обновление PREVIEW_PICTURE из DETAIL_PICTURE</title>
     <style>
         body { font: 14px/1.5 Arial, sans-serif; margin: 24px; color: #222; }
@@ -152,6 +176,8 @@ header('Content-Type: text/html; charset=UTF-8');
         <div><strong>Старт:</strong> <?= htmlspecialcharsbx($startedAt) ?></div>
         <div><strong>Режим:</strong> <?= $run ? 'боевой' : 'dry-run' ?></div>
         <div><strong>Пакет:</strong> <?= $limit ?></div>
+        <div><strong>Автозапуск:</strong> <?= $auto ? 'включен' : 'выключен' ?></div>
+        <div><strong>Шаг:</strong> <?= $step ?> / <?= $maxSteps ?></div>
         <div><strong>Стартовый last_id:</strong> <?= $lastId ?></div>
         <div><strong>Обработано в выборке:</strong> <?= $stats['selected'] ?></div>
         <div><strong>Обновлено:</strong> <?= $stats['updated'] ?></div>
@@ -163,11 +189,16 @@ header('Content-Type: text/html; charset=UTF-8');
     </div>
 
     <div class="actions">
-        <?php if ($hasNext): ?>
+        <?php if ($canAutoContinue): ?>
+            Следующий пакет запустится автоматически через <?= $delay ?> сек.
+            <br><a href="<?= $nextUrl ?>">Запустить следующий пакет сразу</a>
+        <?php elseif ($hasNext): ?>
             <a href="<?= $nextUrl ?>">Запустить следующий пакет</a>
         <?php else: ?>
             Обработка завершена, новых элементов в текущем диапазоне не найдено.
         <?php endif; ?>
+        <br><br>
+        <a href="<?= htmlspecialcharsbx('/' . $scriptName . '?last_id=' . $lastId . '&limit=' . $limit . '&sleep_us=' . $sleepUs . '&run=' . ($run ? '1' : '0') . '&auto=1&delay=' . $delay . '&step=1&max_steps=' . $maxSteps) ?>">Запустить авто-режим с текущей точки</a>
     </div>
 
     <pre><?= htmlspecialcharsbx(implode(PHP_EOL, $messages)) ?></pre>
