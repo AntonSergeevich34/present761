@@ -20833,3 +20833,27 @@ table.contacts-stores tr.item td:last-of-type {
 .wrapper1 .form .form_head{
   margin-top: 18px;
 }
+
+@media (min-width: 992px) {
+  .right_block:not(.catalog_page_detail_with_left) .product-view--side-left:has(.catalog_block_accessories_template) {
+    width: calc(100% + 3px);
+  }
+}
+
+@media (min-width: 992px) {
+  .product-view--type2
+    .product-detail-gallery__desktop-item
+    .product-detail-gallery__desktop-link
+    > .product-detail-gallery__desktop-picture {
+    max-width: 60% !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .ordered-block.goods
+    .catalog_block_accessories_template
+    .catalog_block.items.owl-carousel
+    .owl-stage-outer {
+    margin-right: -1px;
+  }
+}

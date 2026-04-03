@@ -14,3 +14,5 @@
 *.tar.gz
 *.rar
 local/modules/*/install/wizards/
+.bash_history
+.cache/
